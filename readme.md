@@ -11,9 +11,7 @@ O principal objetivo do desafio é uma pequena aplicação de atividades a fazer
 
 ## A Aplicação
 
-<video width="320" height="240" autoplay muted>
-  <source src="src/video/tasklist.mp4" type="video/mp4">
-</video>
+<img src="src/img/todo.jfifi" alt="Aplicação Tasklist" />
 
 ## Tecnologias utilizadas:
 
