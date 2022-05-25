@@ -9,10 +9,6 @@ O principal objetivo do desafio é uma pequena aplicação de atividades a fazer
   <li>Marcar e desmarcar uma tarefa como concluída.</li>
 </ul>
 
-## A Aplicação
-
-<img src="src/img/todo.jfifi" alt="Aplicação Tasklist" />
-
 ## Tecnologias utilizadas:
 
 <ul>
